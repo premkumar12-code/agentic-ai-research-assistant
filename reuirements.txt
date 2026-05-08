@@ -1,0 +1,6 @@
+gradio
+transformers
+accelerate
+wikipedia
+sentencepiece
+torch
